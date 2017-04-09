@@ -1,5 +1,5 @@
 # iran-cities
-# بانک اطلاعات جامع و کامل استان0157‌ها، شهرستان0157‌ها و شهرهای ایران
+# بانک اطلاعات جامع و کامل استانها، شهرستانها و شهرهای ایران
 
 Iran-cities is the most accurate database of Iran city, county and provinces.
 
