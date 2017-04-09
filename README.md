@@ -2,8 +2,6 @@
 Iran-cities is the most accurate database of city, county and provinces of Iran.
 
 # بانک اطلاعات جامع و کامل اسامی استانها، شهرستانها و شهرهای ایران
-
-
 جهت استفاده برنامه نویسان و توسعه دهندگان
 
 
