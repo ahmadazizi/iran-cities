@@ -33,3 +33,6 @@ Iran-cities is the most accurate database of city, county and provinces of Iran.
 - جدول شهرستانها: شامل لیست تمامی شهرستانهای ایران و رابطه آن با استانها می باشد.
 - جدول شهرها: شامل تمامی شهرهای ایران و رابطه آنها با شهرستانها و استانهای کشور می باشد.
 
+# License
+MIT License
+
